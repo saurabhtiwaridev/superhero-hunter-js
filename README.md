@@ -31,11 +31,11 @@ Superhero Hunter JS is a web application that allows users to search for their f
 
 ## Video Explanation
 
-[Link to Video Explanation](https://drive.google.com/file/d/1x-B_yyx4S875WhQj9t99YXUFqz1VVRNr/view)
+[Link to Video Explanation](https://drive.google.com/file/d/1yHfYOsbmqBwEFsKXWrEud_H5l1KbaaJ2/view?usp=sharing)
 
 ## Hosting
 
-The code is hosted on GitHub: [GitHub Repository](https://github.com/saurabhtiwaridev/superhero-hunter-js.git)
+The code is hosted on GitHub: [GitHub Repository](https://66687fe94268510097bd4ac4--superhero-hunter-js.netlify.app/)
 
 ## Getting Started
 
